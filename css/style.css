@@ -1,0 +1,34 @@
+.logo{
+    float : left;
+    margin-left:97px;
+}
+.nav{
+    float:right;
+    margin-right:90px;
+
+}
+.clear{
+    clear:both;
+}
+.nav-li{
+    float:right;
+
+}
+.nav-a{
+    margin-left:50px;
+    color:#303134;
+    font-size: 16px;;
+}
+.DIVheader{
+    margin-top:50px;
+}
+.wraper{
+    background-color: red;
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+}
+body{
+    height: 1800px;
+}
